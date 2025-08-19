@@ -13,5 +13,7 @@ A small demo weather app built with SwiftUI, showing the forecast for several da
 
 A great example for learning the basics of SwiftUI — ZStack, VStack, HStack, @State, @Binding, and gradients.
 
+#### 📷 **Screenshots**
+
 ![image](https://github.com/user-attachments/assets/4385cda6-8662-4208-9e56-178f891c23f0)
 
